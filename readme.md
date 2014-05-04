@@ -73,5 +73,5 @@ In terms of implementing content-management functionality, a fork of Ghost (http
 Peter McKay   
 Co-Founder/Chief Product Officer   
 Roscoe Labs   
-April 27, 2014   
+May 2014   
 
